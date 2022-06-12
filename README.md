@@ -19,3 +19,4 @@ Skills: SQL / Python / Power BI/ Excel
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ankit1032)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ankit-banerjee-a2b470155//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Ankit1032/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/techguy_ankit101?hr_r=1)  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit1032)](https://github.com/anuraghazra/github-readme-stats)
