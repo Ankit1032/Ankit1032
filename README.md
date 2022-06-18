@@ -4,11 +4,11 @@
 
  💫 Skilled in Python, SQL, and Advanced Excel  
  🏢 Currently working as a Senior Analyst in Capgemini  
- 🦾 Having Knowledge of various Python libraries such as Pandas, Matplotlib, Numpy
+ 🦾 Having Knowledge of various Python libraries such as Pandas, Matplotlib, Numpy  
  🔬 Efficient in Exploratory Data Analysis  
  📈 Having knowledge of OpenPyXL used for Excel Automations  
  📚 Developed Basic Power BI and Excel Dashboards  
- 💭 Having knowledge of Data Cleaning, Processing, and Analyzing in Python and SQL.
+ 💭 Having knowledge of Data Cleaning, Processing, and Analyzing in Python and SQL  
  🐛 Hands-on Experience with Database testing  
  🎓 IT Professional with a Bachelor of Technology - B.Tech
 
