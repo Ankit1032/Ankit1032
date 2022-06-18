@@ -1,6 +1,6 @@
 
-### Hi there 👋, My Name is Ankit Banerjee
-#### Senior Analyst
+<h2 align="center"> Hi there 👋, My Name is Ankit Banerjee</h2>
+<h3> Senior Analyst</h3>
 
  💫 Skilled in Python, SQL, and Advanced Excel  
  🏢 Currently working as a Senior Analyst in Capgemini  
@@ -13,10 +13,30 @@
  🎓 IT Professional with a Bachelor of Technology - B.Tech
 
 
+<h3 align="left">Connect with me :</h3>
+
+[<img src='https://github.com/Ankit1032/Ankit1032/blob/main/github.svg' alt='github' title='Github' height='45'>](https://github.com/Ankit1032)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/linkedin.svg' alt='linkedin' title='LinkedIn' height='45'>](https://www.linkedin.com/in//ankit-banerjee-a2b470155//)  
+
+<h3 align="left">Coding Profiles :</h3>
+
+[<img src='https://github.com/Ankit1032/Ankit1032/blob/main/leetcode.svg' alt='leetcode' title='Leetcode' height='45'>](https://leetcode.com/Ankit1032/)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/hackerrank.svg' alt='hackerrank' title='Hackerrank' height='45'>](https://www.hackerrank.com/techguy_ankit101?hr_r=1)  
 
 
-[<img src='https://github.com/Ankit1032/Ankit1032/blob/main/github.svg' alt='github' height='40'>](https://github.com/Ankit1032)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//ankit-banerjee-a2b470155//)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Ankit1032/)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/techguy_ankit101?hr_r=1)  
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title='python' width="40" height="45" />
+<img src="https://github.com/Ankit1032/Ankit1032/blob/main/excel-app.svg" alt="excel" title='excel' width="40" height="45"/>
+<img src="https://github.com/Ankit1032/Ankit1032/blob/main/sql.svg" alt="sql" title='sql' width="40" height="45"/>
+<img src="https://github.com/Ankit1032/Ankit1032/blob/main/icons8-power-bi.svg" alt="powerbi" title='powerbi' width="40" height="45"/>
+ 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" title='pandas' width="40" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" title='scikit_learn' width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title='git' width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" title='oracle' width="40" height="40"/>
+</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit1032&show_icons=true&theme=radical)
