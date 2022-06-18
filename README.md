@@ -15,7 +15,7 @@
 
 
 
-[<img src='https://img.icons8.com/fluency/48/undefined/github.png' alt='github' height='40'>](https://github.com/Ankit1032)  [<img src='https://img.icons8.com/fluency/48/undefined/linkedin-circled.png' alt='linkedin' height='40'>](https://www.linkedin.com/in//ankit-banerjee-a2b470155//)  [<img src='https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png' alt='leetcode' height='40'>](https://leetcode.com/Ankit1032/)  [<img src='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/techguy_ankit101?hr_r=1)  
+[<img src='https://github.com/Ankit1032/Ankit1032/blob/main/github.svg' alt='github' height='40'>](https://github.com/Ankit1032)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//ankit-banerjee-a2b470155//)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Ankit1032/)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/techguy_ankit101?hr_r=1)  
 
 
 
