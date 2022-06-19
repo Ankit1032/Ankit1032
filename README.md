@@ -20,7 +20,7 @@
 
 <h3 align="left">Coding Profiles :</h3>
 
-[<img src='https://github.com/Ankit1032/Ankit1032/blob/main/leetcode.svg' alt='leetcode' title='Leetcode' height='45'>](https://leetcode.com/Ankit1032/)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/hackerrank.svg' alt='hackerrank' title='Hackerrank' height='45'>](https://www.hackerrank.com/techguy_ankit101?hr_r=1)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/kaggle.svg' alt='kaggle' title='kaggle' height='40'>](https://www.kaggle.com/ankitbanerjee/code)  
+[<img src='https://github.com/Ankit1032/Ankit1032/blob/main/hackerrank.svg' alt='hackerrank' title='Hackerrank' height='45'>](https://www.hackerrank.com/techguy_ankit101?hr_r=1)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/leetcode.svg' alt='leetcode' title='Leetcode' height='45'>](https://leetcode.com/Ankit1032/)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/kaggle.svg' alt='kaggle' title='kaggle' height='40'>](https://www.kaggle.com/ankitbanerjee/code)  
 
 
 <p align="left">
