@@ -1,6 +1,10 @@
 
 <h2 align="center"> Hi there 👋, My Name is Ankit Banerjee</h2>
-<h4>📩 <b><i>ankit.banerjee835@gmail.com</b></i></h4>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
+> 📩 <i>ankit.banerjee835@gmail.com</i>
 <h3> Senior Analyst</h3>
 
  💫 Skilled in Python, SQL, and Advanced Excel  
@@ -39,8 +43,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" title='oracle' width="40" height="40"/>
 </p>
 
+<br>
+<h2 align="left"> 🔥Github Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit1032&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankit1032&theme=highcontrast)](https://git.io/streak-stats)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit1032&show_icons=true&theme=radical&hide=contribs&line_height=30)    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankit1032&theme=highcontrast)](https://git.io/streak-stats)
+
+[![Ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankit1032&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
