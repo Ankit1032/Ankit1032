@@ -1,11 +1,9 @@
 
 <h2 align="center"> Hi there 👋, My Name is Ankit Banerjee</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
-
 > 📩 <i>ankit.banerjee835@gmail.com</i>
-<h3> Senior Analyst</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Senior+Analyst;Capgemini)](https://git.io/typing-svg)
 
  💫 Skilled in Python, SQL, and Advanced Excel  
  🏢 Currently working as a Senior Analyst in Capgemini  
