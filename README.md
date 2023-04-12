@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me :</h3>
 
-[<img src='https://github.com/Ankit1032/Ankit1032/blob/main/github.svg' alt='github' title='Github' height='45'>](https://github.com/Ankit1032)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/linkedin.svg' alt='linkedin' title='LinkedIn' height='45'>](https://www.linkedin.com/in//ankit-banerjee-a2b470155//)  
+[<img src='https://github.com/Ankit1032/Ankit1032/blob/main/github.svg' alt='github' title='Github' height='45'>](https://github.com/Ankit1032)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/linkedin.svg' alt='linkedin' title='LinkedIn' height='45'>](https://www.linkedin.com/in/ankit-banerjee-a2b470155)  
 
 <h3 align="left">Coding Profiles :</h3>
 
