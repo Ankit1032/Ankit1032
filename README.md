@@ -5,15 +5,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Senior+Analyst;Capgemini)](https://git.io/typing-svg)
 
- 💫 Skilled in Python, SQL, and Advanced Excel  
- 🏢 Currently working as a Senior Analyst in Capgemini  
- 🦾 Having Knowledge of various Python libraries such as Pandas, Matplotlib, Numpy  
- 🔬 Efficient in Exploratory Data Analysis  
- 📈 Having knowledge of OpenPyXL used for Excel Automations  
- 📚 Developed Basic Power BI and Excel Dashboards  
- 💭 Having knowledge of Data Cleaning, Processing, and Analyzing in Python and SQL  
- 🐛 Hands-on Experience with Database testing  
- 🎓 IT Professional with a Bachelor of Technology - B.Tech
+<li> 💫 I am a Data and Business Intelligence Analyst</li>
+<li> 🏢 I leverage my expertise in Python, SQL, Power BI, and Excel to drive data-based decisions and optimizations.</li>
+<li> 🦾 My role involves analyzing complex supply chain data to identify trends, insights and optimize operations.</li>
+<li> 🔬 I am proficient in creating data visualizations and dashboards that communicate insights effectively to stakeholders at all levels of the organization.</li>
+<li> 📈 When I'm not coding, I'm listening to music, tuning in my favourite podcasts, watching entertaining youtube videos on my favourite youtube channels or I play games.</li>
 
 
 <h3 align="left">Connect with me :</h3>
