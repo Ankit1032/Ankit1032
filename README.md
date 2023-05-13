@@ -13,15 +13,6 @@
 <li> 🎮 When I'm not coding, I'm listening to music, tuning in my favourite podcasts, watching entertaining youtube videos on my favourite youtube channels or I play games.</li><br>
 
 
-<h3 align="left">Connect with me :</h3>
-
-[<img src='https://github.com/Ankit1032/Ankit1032/blob/main/github.svg' alt='github' title='Github' height='45'>](https://github.com/Ankit1032)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/linkedin.svg' alt='linkedin' title='LinkedIn' height='45'>](https://www.linkedin.com/in/ankit-banerjee-a2b470155)  
-
-<h3 align="left">Coding Profiles :</h3>
-
-[<img src='https://github.com/Ankit1032/Ankit1032/blob/main/hackerrank.svg' alt='hackerrank' title='Hackerrank' height='45'>](https://www.hackerrank.com/techguy_ankit101?hr_r=1)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/leetcode.svg' alt='leetcode' title='Leetcode' height='45'>](https://leetcode.com/Ankit1032/)  [<img src='https://github.com/Ankit1032/Ankit1032/blob/main/kaggle.svg' alt='kaggle' title='kaggle' height='40'>](https://www.kaggle.com/ankitbanerjee123/code)  
-
-
 <p align="left">
 </p>
 
