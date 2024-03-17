@@ -5,11 +5,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Analytics+Consultant;Wells+Fargo)](https://git.io/typing-svg)
 
-<li> 💫 I am a Data and Business Intelligence Consultant</li><br>
+<li> 💫 I am a Analytics Consultant</li><br>
 <li> 🔬 I leverage my Python, SQL, and Power BI expertise to drive data-based decisions and optimizations.</li><br>
 <li> 🔦 My role involves analyzing complex finance data to identify trends, insights and optimize operations.</li><br>
 <li> 📊 I am proficient in creating data visualizations and dashboards that communicate insights effectively to stakeholders at all levels of the organization.</li><br>
-<li> 📈 I specialize in Time Series Analysis and Machine Learning to create accurate forecasting and predictive models..</li><br>
+<li> 📈 I specialize in Time Series Analysis, Machine Learning and Natural language processing to create accurate forecasting and predictive models.</li><br>
 <li> 🎮 When I'm not coding, I'm listening to music, tuning in my favourite podcasts, watching entertaining youtube videos on my favourite youtube channels or I play games.</li><br>
 
 
