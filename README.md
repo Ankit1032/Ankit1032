@@ -3,7 +3,7 @@
 
 > 📩 <i>ankit.banerjee835@gmail.com</i>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Analytics+Consultant;Wells+Fargo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Senior+Data+Scientist;Gallagher)](https://git.io/typing-svg)
 
 <li> 💫 I am a Senior Data Scientist</li><br>
 <li> 🔦 My role involves analyzing complex finance data to identify trends, insights and optimize operations.</li><br>
