@@ -19,5 +19,5 @@
 <h2 align="left"> 🔥Github Stats</h2>
 
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit1032&show_icons=true&theme=radical&hide=contribs&line_height=30)    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankit1032&theme=highcontrast)](https://git.io/streak-stats)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit1032&show_icons=true&theme=radical&hide=contribs&line_height=30)    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankit1032&theme=highcontrast)]
 
